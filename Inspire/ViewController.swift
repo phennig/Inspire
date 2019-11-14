@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-//control click on folder and create remote
+        //control click on folder and create remote
         
     }
 
